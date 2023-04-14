@@ -1,0 +1,2 @@
+surveillance_system
+-DCATKIN_DEVEL_PREFIX=/home/hugo/Documents/S9-S10/Systèmes communicants/DM/Exercice3/ros_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hugo/Documents/S9-S10/Systèmes communicants/DM/Exercice3/ros_ws/install -G Unix Makefiles

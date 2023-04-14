@@ -1,0 +1,8 @@
+<launch>
+  <!-- start the ROS master node -->
+  <master auto="start"/>
+
+  <!-- start the surveillance program -->
+  <node name="surveillance" pkg="surveillance_system" type="surveillance.py" />
+</launch>
+

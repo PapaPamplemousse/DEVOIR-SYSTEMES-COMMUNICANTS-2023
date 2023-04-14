@@ -1,0 +1,8 @@
+prefix=/home/hugo/Documents/S9-S10/Systèmes communicants/DM/Exercice3/ros_ws/install
+
+Name: surveillance_system
+Description: Description of surveillance_system
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
